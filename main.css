@@ -247,7 +247,7 @@ section {
 }
 
 .banner {
-  padding: 100px 0;
+  padding: 50px 0;
   color: #f8f8f8;
   background: #1c1c1c;
 }
@@ -290,14 +290,15 @@ section {
 }
 
 footer {
-  padding: 50px 0;
   background-color: #1c1c1c;
+  text-align: center;
 }
 
 a {
   color: #757575;
 }
 
-p.copyright {
-  margin: 15px 0 0;
+.list-inline a:hover {
+  text-decoration: none;
+  color: #fff;
 }
